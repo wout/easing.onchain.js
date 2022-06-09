@@ -1,0 +1,16 @@
+{
+  "name": "easing.onchain.js",
+  "version": "0.1.0",
+  "description": "A micro JS library for falloffs using various easing methods.",
+  "main": "easing.onchain.js",
+  "repository": "git@github.com:onchainjs/easing.onchain.js.git",
+  "author": "Wout <hi@wout.codes>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "jasmine": "^4.1.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  }
+}
