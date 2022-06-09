@@ -5,6 +5,10 @@ This library is intended for use in environments where the available storage
 space is very limited; like blockchains for example. Everything is stripped down
 to the bare essentials.
 
+![GitHub](https://img.shields.io/github/license/onchainjs/easing.onchain.js)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/onchainjs/easing.onchain.js)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/onchainjs/easing.onchain.js/easing.onchain.js%20CI)
+
 ## Usage
 Calculate the position of a point between a start and end point:
 
