@@ -43,7 +43,8 @@ By first registering the equasion in the `Ea.eq` object, you can reuse it many
 times later in your code without having to write it out every time.
 
 ## Equasions
-Below you'll find some useful equasions to get started.
+Below you'll find some useful equasions to get started. If you need more, have
+a look at [easings.net](https://easings.net/).
 
 ### Sine
 
@@ -153,7 +154,6 @@ Ea.eq['>~'] = p => x == 0 ? 0 : x == 1 ? 1 :
   Math.pow(2, -10 * x) * Math.sin((x * 10 - 0.75) * ((2 * Math.PI) / 3)) + 1
 ```
 ![Ease-out Circ](/examples/ease-out-elastic.svg)
-
 
 ## License
 easing.onchain.js is licensed under the terms of the MIT License.
